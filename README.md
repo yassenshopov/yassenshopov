@@ -4,7 +4,7 @@
 [![GitHub](https://img.shields.io/github/followers/yassenshopov?style=social)](https://github.com/yassenshopov)
 
 ### ⚙️ Technologies & Tools
-![HTML5](html.png) ![CSS3](css.png) ![Vanilla JS](js.png)
+![HTML5](html.png) ![CSS3](css.png) ![Vanilla JS](js.png) ![Python](python.png) ![Git](git.png) ![GitHub](github.png) ![Linux](linux.png) ![Terminal](terminal.png)
 
 ### 🧬 My stats:
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=yassenshopov)](https://github.com/anuraghazra/github-readme-stats)
