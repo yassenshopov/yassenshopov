@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/yassenshopov)
+[![Twitter](https://img.shields.io/twitter/url/http/shields.io.svg?style=for-the-badge&logo=appveyor)](https://twitter.com/yassenshopov)
 
 ### 🧬 My stats
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=yassenshopov)](https://github.com/anuraghazra/github-readme-stats)
