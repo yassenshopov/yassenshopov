@@ -4,7 +4,7 @@
 [![GitHub](https://img.shields.io/github/followers/yassenshopov?style=social)](https://github.com/yassenshopov)
 
 ### ⚙️ Technologies & Tools
-![HTML5](html.png){style="padding-right:10px"} ![CSS3](css.png){style="padding-right:10px"} ![Vanilla JS](js.png){style="padding-right:10px"} ![Python](python.png){style="padding-right:10px"} ![Git](git.png){style="padding-right:10px"} ![GitHub](github.png){style="padding-right:10px"} ![Linux](linux.png){style="padding-right:10px"} ![Terminal](terminal.png){style="padding-right:10px"}
+![HTML5](html.png){: style="padding-right:10px"} ![CSS3](css.png){: style="padding-right:10px"} ![Vanilla JS](js.png){: style="padding-right:10px"} ![Python](python.png){: style="padding-right:10px"} ![Git](git.png){: style="padding-right:10px"} ![GitHub](github.png){: style="padding-right:10px"} ![Linux](linux.png){: style="padding-right:10px"} ![Terminal](terminal.png){: style="padding-right:10px"}
 
 ### 🧬 My stats:
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=yassenshopov)](https://github.com/anuraghazra/github-readme-stats)
