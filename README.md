@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-[![Twitter](https://img.shields.io/twitter/url/http/shields.io.svg?style=for-the-badge)](https://twitter.com/yassenshopov)
+[![Twitter](/twitter/follow/:user?label=Follow](https://twitter.com/yassenshopov)
+[![GitHub](/github/followers/:user?label=Follow](https://github.com/yassenshopov)
 
 ### 🧬 My stats:
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=yassenshopov)](https://github.com/anuraghazra/github-readme-stats)
