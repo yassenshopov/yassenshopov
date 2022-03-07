@@ -5,7 +5,7 @@
 ![HTML5](html.png)&nbsp;&nbsp;&nbsp;&nbsp; ![CSS3](css.png)&nbsp;&nbsp;&nbsp;&nbsp; ![Vanilla JS](js.png)&nbsp;&nbsp;&nbsp;&nbsp; ![Python](python.png)&nbsp;&nbsp;&nbsp;&nbsp; ![Git](git.png)&nbsp;&nbsp;&nbsp;&nbsp; ![GitHub](github.png)&nbsp;&nbsp;&nbsp;&nbsp; ![Linux](linux.png)&nbsp;&nbsp;&nbsp;&nbsp; ![Terminal](terminal.png)&nbsp;&nbsp;&nbsp;&nbsp; ![Notion](notion.png)&nbsp;&nbsp;&nbsp;&nbsp;
 
 ### 🧬 My stats:
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=yassenshopov&theme=tokyonight&show_icons=true)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=yassenshopov&theme=tokyonight&show_icons=true)
 
 
 ## 📬️ Contact me:
