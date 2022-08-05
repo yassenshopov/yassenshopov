@@ -2,7 +2,7 @@
 
 I am a Front-End Developer, with a background in digital illustration and content creation.
 
-I am currently a Year 3 Biomedical Engineering student at University of Strathclyde, Glasgow, UK 🇬🇧. Throughout my bachelor degree, I am continuously developing my engineering skills and using them to enhance my natural creativity - resulting in my big passion for Website Design and Front-End Development. My aim is to grow as a developer, creating brand websites that serve the customer and visually reflect the personality of the company/small business.
+I am currently a Year 4 Biomedical Engineering student at University of Strathclyde, Glasgow, UK 🇬🇧. Throughout my bachelor degree, I am continuously developing my engineering skills and using them to enhance my natural creativity - resulting in my big passion for Website Design and Front-End Development. My aim is to grow as a developer, creating brand websites that serve the customer and visually reflect the personality of the company/small business.
 
 My fortè is designing websites for individuals, personal brands, and small businesses, mainly in the sphere of marketing, content creation, and social media.
 
