@@ -11,7 +11,7 @@ My fortè is designing websites for individuals, personal brands, and small busi
 
 
 ### 🧬 My stats:
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=yassenshopov&count_private=true&show_icons=true&theme=tokyonight)]
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=yassenshopov&count_private=true&show_icons=true&theme=tokyonight)
 
 
 ## 📬️ Contact me:
