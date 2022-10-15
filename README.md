@@ -7,7 +7,7 @@ I am currently a Year 4 Biomedical Engineering student at University of Strathcl
 My fortè is designing websites for individuals, personal brands, and small businesses, mainly in the sphere of marketing, content creation, and social media.
 
 ### ⚙️ Technologies & Tools
-![HTML5](html.png)&nbsp;&nbsp;&nbsp;&nbsp; ![CSS3](css.png)&nbsp;&nbsp;&nbsp;&nbsp; ![Vanilla JS](js.png)&nbsp;&nbsp;&nbsp;&nbsp; ![React JS](react_JS.png)&nbsp;&nbsp;&nbsp;&nbsp; ![SASS](sass.png)&nbsp;&nbsp;&nbsp;&nbsp; ![Python](python.png)&nbsp;&nbsp;&nbsp;&nbsp; ![Git](git.png)&nbsp;&nbsp;&nbsp;&nbsp; ![Linux](linux.png)&nbsp;&nbsp;&nbsp;&nbsp; ![Terminal](terminal.png)&nbsp;&nbsp;&nbsp;&nbsp; ![Notion](notion.png)&nbsp;&nbsp;&nbsp;&nbsp; ![Pixi JS](pixi.png)&nbsp;&nbsp;&nbsp;&nbsp; ![Cypress](cypress.png)&nbsp;&nbsp;&nbsp;&nbsp;
+![HTML5](html.png)&nbsp;&nbsp;&nbsp;&nbsp; ![CSS3](css.png)&nbsp;&nbsp;&nbsp;&nbsp; ![Vanilla JS](js.png)&nbsp;&nbsp;&nbsp;&nbsp; ![React JS](react_JS.png)&nbsp;&nbsp;&nbsp;&nbsp; ![SASS](sass.png)&nbsp;&nbsp;&nbsp;&nbsp; ![Python](python.png)&nbsp;&nbsp;&nbsp;&nbsp; ![Git](git.png)&nbsp;&nbsp;&nbsp;&nbsp; ![Linux](linux.png)&nbsp;&nbsp;&nbsp;&nbsp; ![Terminal](terminal.png)&nbsp;&nbsp;&nbsp;&nbsp; ![Notion](notion.png)&nbsp;&nbsp;&nbsp;&nbsp; ![Pixi JS](pixi.png)&nbsp;&nbsp;&nbsp;&nbsp; ![Cypress](cypress.png)&nbsp;&nbsp;&nbsp;&nbsp; ![jQuery](jquery.png)&nbsp;&nbsp;&nbsp;&nbsp;
 
 
 ### 🧬 My stats:
