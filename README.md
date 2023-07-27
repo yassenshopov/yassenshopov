@@ -8,10 +8,16 @@ My fortè is designing websites for individuals, personal brands, and small busi
 
 ### 🧰 Technologies & Tools
 <img align="left" alt="HTML" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-<img align="left" alt="HTML" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
-
-![HTML5](html.png)&nbsp;&nbsp;&nbsp;&nbsp; ![CSS3](css.png)&nbsp;&nbsp;&nbsp;&nbsp; ![Vanilla JS](js.png)&nbsp;&nbsp;&nbsp;&nbsp; ![React JS](react_JS.png)&nbsp;&nbsp;&nbsp;&nbsp; ![SASS](sass.png)&nbsp;&nbsp;&nbsp;&nbsp; ![Python](python.png)&nbsp;&nbsp;&nbsp;&nbsp; ![Git](git.png)&nbsp;&nbsp;&nbsp;&nbsp; ![Linux](linux.png)&nbsp;&nbsp;&nbsp;&nbsp; ![Terminal](terminal.png)&nbsp;&nbsp;&nbsp;&nbsp; ![Notion](notion.png)&nbsp;&nbsp;&nbsp;&nbsp; ![Pixi JS](pixi.png)&nbsp;&nbsp;&nbsp;&nbsp; ![Cypress](cypress.png)&nbsp;&nbsp;&nbsp;&nbsp; ![jQuery](jquery.png)&nbsp;&nbsp;&nbsp;&nbsp; ![NextJS](nextjs.png)&nbsp;&nbsp;&nbsp;&nbsp; 
-
+<img align="left" alt="CSS" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+<img align="left" alt="Javascript" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+<img align="left" alt="ReactJS" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
+<img align="left" alt="NextJS" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"/>
+<img align="left" alt="LESS" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/less/less-plain-wordmark.svg"/>
+<img align="left" alt="Git" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+<img align="left" alt="Firebase" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"/>
+<img align="left" alt="jQuery" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg"/>
+<img align="left" alt="NodeJS" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
+<img align="left" alt="MaterialUI" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg"/>
 
 ### 🧬 My stats:
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=yassenshopov&count_private=true&show_icons=true&theme=tokyonight)
