@@ -7,7 +7,6 @@ I am currently a Year 4 Biomedical Engineering student at University of Strathcl
 My fortè is designing websites for individuals, personal brands, and small businesses, mainly in the sphere of marketing, content creation, and social media.
 
 ### 🧰 Technologies & Tools
-<div style="display:flex; justify-items:space-between;">
   <img align="left" style="padding-right: 10px; width: 3rem !important" alt="HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
   <img align="left" style="padding-right: 10px; width: 3rem !important" alt="CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
   <img align="left" style="padding-right: 10px; width: 3rem !important" alt="Javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
@@ -19,9 +18,8 @@ My fortè is designing websites for individuals, personal brands, and small busi
   <img align="left" style="padding-right: 10px; width: 3rem !important" alt="jQuery" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg"/>
   <img align="left" style="padding-right: 10px; width: 3rem !important" alt="NodeJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
   <img align="left" style="padding-right: 10px; width: 3rem !important" alt="MaterialUI" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg"/>
-</div>
 
-<br />
+<br></br>
 
 ### 🧬 My stats:
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=yassenshopov&count_private=true&show_icons=true&theme=tokyonight)
