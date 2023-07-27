@@ -8,6 +8,7 @@ My fortè is designing websites for individuals, personal brands, and small busi
 
 ### 🧰 Technologies & Tools
 <img align="left" alt="HTML" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+<img align="left" alt="HTML" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
 
 ![HTML5](html.png)&nbsp;&nbsp;&nbsp;&nbsp; ![CSS3](css.png)&nbsp;&nbsp;&nbsp;&nbsp; ![Vanilla JS](js.png)&nbsp;&nbsp;&nbsp;&nbsp; ![React JS](react_JS.png)&nbsp;&nbsp;&nbsp;&nbsp; ![SASS](sass.png)&nbsp;&nbsp;&nbsp;&nbsp; ![Python](python.png)&nbsp;&nbsp;&nbsp;&nbsp; ![Git](git.png)&nbsp;&nbsp;&nbsp;&nbsp; ![Linux](linux.png)&nbsp;&nbsp;&nbsp;&nbsp; ![Terminal](terminal.png)&nbsp;&nbsp;&nbsp;&nbsp; ![Notion](notion.png)&nbsp;&nbsp;&nbsp;&nbsp; ![Pixi JS](pixi.png)&nbsp;&nbsp;&nbsp;&nbsp; ![Cypress](cypress.png)&nbsp;&nbsp;&nbsp;&nbsp; ![jQuery](jquery.png)&nbsp;&nbsp;&nbsp;&nbsp; ![NextJS](nextjs.png)&nbsp;&nbsp;&nbsp;&nbsp; 
 
