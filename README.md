@@ -17,8 +17,9 @@ My fortè is designing websites for individuals, personal brands, and small busi
 <img align="left" style="padding-right: 10px; width: 3rem !important" alt="Firebase" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"/>
 <img align="left" style="padding-right: 10px; width: 3rem !important" alt="jQuery" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg"/>
 <img align="left" style="padding-right: 10px; width: 3rem !important" alt="NodeJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
-<img align="left" style="padding-right: 10px; width: 4rem !important" alt="MaterialUI" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg"/>
+<img align="left" style="padding-right: 10px; width: 3rem !important" alt="MaterialUI" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg"/>
 
+<br />
 ---
 
 ### 🧬 My stats:
