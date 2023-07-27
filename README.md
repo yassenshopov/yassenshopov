@@ -7,19 +7,19 @@ I am currently a Year 4 Biomedical Engineering student at University of Strathcl
 My fortè is designing websites for individuals, personal brands, and small businesses, mainly in the sphere of marketing, content creation, and social media.
 
 ### 🧰 Technologies & Tools
-<img align="left" style="padding-right: 10px; width: 60px !important" alt="HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-<img align="left" style="padding-right: 10px; width: 60px !important" alt="CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
-<img align="left" style="padding-right: 10px; width: 60px !important" alt="Javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-<img align="left" style="padding-right: 10px; width: 60px !important" alt="ReactJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
-<img align="left" style="padding-right: 10px; width: 60px !important" alt="NextJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"/>
-<img align="left" style="padding-right: 10px; width: 60px !important" alt="jQuery" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg"/>
-<img align="left" style="padding-right: 10px; width: 60px !important" alt="LESS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/less/less-plain-wordmark.svg"/>
-<img align="left" style="padding-right: 10px; width: 60px !important" alt="MaterialUI" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg"/>
-<img align="left" style="padding-right: 10px; width: 60px !important" alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-<img align="left" style="padding-right: 10px; width: 60px !important" alt="Firebase" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"/>
-<img align="left" style="padding-right: 10px; width: 60px !important" alt="NodeJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
-<img align="left" style="padding-right: 10px; width: 60px !important" alt="VS Code" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
-<img align="left" style="padding-right: 10px; width: 60px !important" alt="Figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
+<img align="left" style="padding-right: 10px; width: 3rem !important" alt="HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+<img align="left" style="padding-right: 10px; width: 3rem !important" alt="CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+<img align="left" style="padding-right: 10px; width: 3rem !important" alt="Javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+<img align="left" style="padding-right: 10px; width: 3rem !important" alt="ReactJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
+<img align="left" style="padding-right: 10px; width: 3rem !important" alt="NextJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"/>
+<img align="left" style="padding-right: 10px; width: 3rem !important" alt="jQuery" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg"/>
+<img align="left" style="padding-right: 10px; width: 3rem !important" alt="LESS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/less/less-plain-wordmark.svg"/>
+<img align="left" style="padding-right: 10px; width: 3rem !important" alt="MaterialUI" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg"/>
+<img align="left" style="padding-right: 10px; width: 3rem !important" alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+<img align="left" style="padding-right: 10px; width: 3rem !important" alt="Firebase" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"/>
+<img align="left" style="padding-right: 10px; width: 3rem !important" alt="NodeJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
+<img align="left" style="padding-right: 10px; width: 3rem !important" alt="VS Code" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
+<img align="left" style="padding-right: 10px; width: 3rem !important" alt="Figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
 
 <br></br>
 
