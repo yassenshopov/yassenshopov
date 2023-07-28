@@ -11,7 +11,7 @@ My fortè is designing websites for individuals, personal brands, and small busi
 <img align="left" style="padding-right: 10px; width: 2rem !important" alt="CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
 <img align="left" style="padding-right: 10px; width: 2rem !important" alt="Javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
 <img align="left" style="padding-right: 10px; width: 2rem !important" alt="ReactJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
-<img align="left" style="padding-right: 10px; width: 2rem !important" alt="NextJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"/>
+<img align="left" style="padding-right: 10px; width: 2rem !important; background-color: #fff; border-radius: 50%;" alt="NextJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"/>
 <img align="left" style="padding-right: 10px; width: 2rem !important" alt="jQuery" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg"/>
 <img align="left" style="padding-right: 10px; width: 2rem !important" alt="LESS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/less/less-plain-wordmark.svg"/>
 <img align="left" style="padding-right: 10px; width: 2rem !important" alt="MaterialUI" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg"/>
