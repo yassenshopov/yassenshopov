@@ -19,6 +19,7 @@ My fortè is designing websites for individuals, personal brands, and small busi
 <img align="left" style="padding-right: 10px; width: 2rem !important" alt="Firebase" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"/>
 <img align="left" style="padding-right: 10px; width: 2rem !important" alt="NodeJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
 <img align="left" style="padding-right: 10px; width: 2rem !important" alt="VS Code" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
+<img align="left" style="padding-right: 10px; width: 2rem !important" alt="Jira" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/jira-original.svg"/>
 <img align="left" style="padding-right: 10px; width: 2rem !important" alt="Figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
 
 <br></br>
