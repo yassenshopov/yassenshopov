@@ -47,6 +47,7 @@ I'm **Yassen**, a **Front-End Developer** with a creative edge, blending enginee
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=yassenshopov&count_private=true&show_icons=true&theme=github_dark)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yassenshopov&layout=compact&theme=github_dark)
 
+---
 
 ### 📬️ Let's connect:
 
