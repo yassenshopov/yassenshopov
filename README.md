@@ -1,50 +1,55 @@
-## Hi there! 👋
+<p>
+  <samp>
+    <p>hello! 👋</p>
+    <a href="https://yassenshopov.com">me</a> .
+    <a href="https://yassenshopov.com/blog">blog</a> .
+<!--     <a href="https://yassenshopov.com/projects">projects</a> . -->
+    <a href="https://twitter.com/yassenshopov">twitter</a> .
+    <a href="https://instagram.com/yassen_shopov">instagram</a> .
+    currently working on: <a href="https://github.com/sponsors/antfu">pokemon palette</a>
+  </samp>
+</p>
 
-I am a Front-End Developer, with a background in digital illustration and content creation.
+---
 
-I am currently a Year 4 Biomedical Engineering student at University of Strathclyde, Glasgow, UK 🇬🇧. Throughout my bachelor degree, I am continuously developing my engineering skills and using them to enhance my natural creativity - resulting in my big passion for Website Design and Front-End Development. My aim is to grow as a developer, creating brand websites that serve the customer and visually reflect the personality of the company/small business.
+I'm **Yassen**, a **Front-End Developer** with a creative edge, blending engineering with design to build intuitive, user-friendly web applications.
 
-My fortè is designing websites for individuals, personal brands, and small businesses, mainly in the sphere of marketing, content creation, and social media.
+- 💻 Currently working at **Nuvei** and **TalentSight**, putting my dev skills to good use.  
+- ✨ Building personal projects at **Ashtree Studio**, like [Pokémon Palette](https://pokemonpalette.com).  
+- 🎨 Background in [**digital illustration**](https://kofiscrib.com) with a knack for 3D modeling.
+- 🎯 Passionate about engineering, clean design, and a little bit of minimalism (pun intended).
 
-### 🧰 Technologies & Tools
-<img align="left" style="padding-right: 10px; width: 2rem !important" alt="HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-<img align="left" style="padding-right: 10px; width: 2rem !important" alt="CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
-<img align="left" style="padding-right: 10px; width: 2rem !important" alt="Javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-<img align="left" style="padding-right: 10px; width: 2rem !important" alt="ReactJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
-<img align="left" style="margin-right: 10px; width: 2rem !important; background: #fff !important; border-radius: 50% !important;" alt="NextJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"/>
-<img align="left" style="padding-right: 10px; width: 2rem !important" alt="jQuery" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg"/>
-<img align="left" style="padding-right: 10px; width: 2rem !important" alt="LESS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/less/less-plain-wordmark.svg"/>
-<img align="left" style="padding-right: 10px; width: 2rem !important" alt="MaterialUI" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg"/>
-<img align="left" style="padding-right: 10px; width: 2rem !important" alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-<img align="left" style="padding-right: 10px; width: 2rem !important" alt="Firebase" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"/>
-<img align="left" style="padding-right: 10px; width: 2rem !important" alt="NodeJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
-<img align="left" style="padding-right: 10px; width: 2rem !important" alt="VS Code" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
-<img align="left" style="padding-right: 10px; width: 2rem !important" alt="Jira" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg"/>
-<img align="left" style="padding-right: 10px; width: 2rem !important" alt="Figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
+---
 
-<br></br>
+### 🛠️ My Stack:
+<div>
+  <img align="left" style="padding-right: 10px; width: 2rem !important" alt="HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+  <img align="left" style="padding-right: 10px; width: 2rem !important" alt="CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+  <img align="left" style="padding-right: 10px; width: 2rem !important" alt="Javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+  <img align="left" style="padding-right: 10px; width: 2rem !important" alt="ReactJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
+  <img align="left" style="margin-right: 10px; width: 2rem !important; background: #fff !important; border-radius: 50% !important;" alt="NextJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"/>
+<!--   <img align="left" style="padding-right: 10px; width: 2rem !important" alt="jQuery" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg"/> -->
+<!--   <img align="left" style="padding-right: 10px; width: 2rem !important" alt="LESS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/less/less-plain-wordmark.svg"/> -->
+  <img align="left" style="padding-right: 10px; width: 2rem !important" alt="TailWindCSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"/>
+  <img align="left" style="padding-right: 10px; width: 2rem !important" alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+  <img align="left" style="padding-right: 10px; width: 2rem !important" alt="Firebase" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"/>
+<!--   <img align="left" style="padding-right: 10px; width: 2rem !important" alt="NodeJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/> -->
+<!--   <img align="left" style="padding-right: 10px; width: 2rem !important" alt="VS Code" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/> -->
+<!--   <img align="left" style="padding-right: 10px; width: 2rem !important" alt="Jira" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg"/> -->
+  <img align="left" style="padding-right: 10px; width: 2rem !important" alt="Figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
+  <img align="left" style="padding-right: 10px; width: 2rem !important" alt="Notion" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg"/>
+</div>
+<br/>
+
+---
 
 ### 🧬 My stats:
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=yassenshopov&count_private=true&show_icons=true&theme=github_dark)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=yassenshopov&count_private=true&show_icons=true&theme=github_dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yassenshopov&layout=compact&theme=github_dark)
 
 
-## 📬️ Contact me:
+### 📬️ Let's connect:
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yassenshopov00@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yassenshopov)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yassenshopov)
-
-<!--
-**yassenshopov/yassenshopov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
