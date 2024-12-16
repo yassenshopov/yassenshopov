@@ -21,7 +21,7 @@ I'm **Yassen**, a **Front-End Developer** with a creative edge, blending enginee
 
 ---
 
-### 🛠️ My Stack:
+### 🛠️ My tech stack:
 <div>
   <img align="left" style="padding-right: 10px; width: 2rem !important" alt="HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
   <img align="left" style="padding-right: 10px; width: 2rem !important" alt="CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
