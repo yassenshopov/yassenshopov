@@ -1,12 +1,12 @@
 <p>
   <samp>
     <p>hello! 👋</p>
-    <a href="https://yassenshopov.com">me</a> .
-    <a href="https://yassenshopov.com/blog">blog</a> .
+    <a href="https://yassenshopov.com" target="_blank">me</a> .
+    <a href="https://yassenshopov.com/blog" target="_blank">blog</a> .
 <!--     <a href="https://yassenshopov.com/projects">projects</a> . -->
-    <a href="https://twitter.com/yassenshopov">twitter</a> .
-    <a href="https://instagram.com/yassen_shopov">instagram</a> .
-    currently working on: <a href="https://github.com/sponsors/antfu">pokemon palette</a>
+    <a href="https://twitter.com/yassenshopov target="_blank">twitter</a> .
+    <a href="https://instagram.com/yassen_shopov" target="_blank">instagram</a> .
+    currently working on: <a href="https://pokemonpalette.com" target="_blank">pokemon palette</a>
   </samp>
 </p>
 
