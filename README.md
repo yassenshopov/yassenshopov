@@ -32,6 +32,7 @@ I'm **Yassen**, a **Front-End Developer** with a creative edge, blending enginee
 <!--   <img align="left" style="padding-right: 10px; width: 2rem !important" alt="LESS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/less/less-plain-wordmark.svg"/> -->
   <img align="left" style="padding-right: 10px; width: 2rem !important" alt="TailWindCSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"/>
   <img align="left" style="padding-right: 10px; width: 2rem !important" alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+  <img align="left" style="padding-right: 10px; width: 2rem !important" alt="Supabase" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg"/>
   <img align="left" style="padding-right: 10px; width: 2rem !important" alt="Firebase" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"/>
 <!--   <img align="left" style="padding-right: 10px; width: 2rem !important" alt="NodeJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/> -->
 <!--   <img align="left" style="padding-right: 10px; width: 2rem !important" alt="VS Code" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/> -->
