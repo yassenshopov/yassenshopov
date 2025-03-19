@@ -14,7 +14,7 @@
 
 I'm **Yassen**, a **Front-End Developer** with a creative edge, blending engineering with design to build intuitive, user-friendly web applications.
 
-- 💻 Currently working at **Nuvei** and **TalentSight**, putting my dev skills to good use.  
+- 💻 Currently working at the Bulgarian start-up **TalentSight**, putting my dev skills to good use.  
 - ✨ Building personal projects at **Ashtree Studio**, like [Pokémon Palette](https://pokemonpalette.com).  
 - 🎨 Background in [**digital illustration**](https://kofiscrib.com) with a knack for 3D modeling.
 - 🎯 Passionate about engineering, clean design, and a little bit of minimalism (pun intended).
