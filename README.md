@@ -46,7 +46,8 @@ I'm **Yassen**, a **Front-End Developer** with a creative edge, blending enginee
 
 ### 🧬 My stats:
 ![yassenshopov's Stats](https://github-readme-stats.vercel.app/api?username=yassenshopov&theme=prussian&show_icons=true&hide_border=false&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yassenshopov&layout=compact&theme=github_dark)
+![yassenshopov's Streak](https://github-readme-streak-stats.herokuapp.com/?user=yassenshopov&theme=prussian&hide_border=false)
+![yassenshopov's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yassenshopov&theme=prussian&show_icons=true&hide_border=false&layout=compact)
 
 ---
 
